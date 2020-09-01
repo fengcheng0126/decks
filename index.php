@@ -1,1 +1,1 @@
-<?php header('Location: ./Decks/index.html'); ?>
+<?php header('Location: ./decks/index.html'); ?>
